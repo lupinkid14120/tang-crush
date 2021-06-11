@@ -9,7 +9,7 @@ const CONFIG = {
     question:'Thế muốn đi đâu chơi nè babe',
     btnReply: 'Gửi cho anh <3',
     reply: 'Hỏi cho dui thoiii chứ toii đã quyết định rồi :)))',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    mess: 'Chịu k chịu cũng phải chịu nhó 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối mai 6h anh qua đón nhé.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.messenger.com/t/100031925508672' //link mess của các bạn. VD: https://m.me/nam.nodemy
